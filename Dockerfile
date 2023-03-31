@@ -1,5 +1,5 @@
 FROM tomcat
-MAINTAINER ardy.dedase@gmail.com
+MAINTAINER rmageshkumar@gmail.com
 
 ADD sample.war /usr/local/tomcat/webapps/
 
